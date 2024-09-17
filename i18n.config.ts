@@ -6,7 +6,7 @@ export default defineI18nConfig(() => ({
             about: {
                 1: "Hello! I'm a passionate developer with a deep interest in technology and all things related to computing. Over the years, I've dedicated myself creating a variety of personal projects, driven by my passion for learning and exploring new technologies.",
                 2: "I'm proficient in full-stack development and DevOps, with a particular focus on Vue.js and Nuxt for web development. On the DevOps side, I have experience with tools like GitHub Actions, Python, Automation, Linux, Terraform, and AWS—skills I've been improving through both personal projects and professional experience.",
-                3: 'I hold a BUT in Computer Science from the University of Lyon 1 and am currently pursuing a three-year engineering degree at CPE Lyon, specializing in Computer Engineering. I completed an apprenticeship at Sanofi as a DevOps Developer during my final year of the BUT. Sanofi has continued to support me by hiring me as a DevOps Cloud Engineer throughout my engineering studies. This role is enhancing my skills in DevOps, particularly with GitHub Actions, Python, Terraform, and AWS. I also recently earned the GitHub Foundations certification, demonstrating my knowledge of GitHub.'
+                3: 'I hold a BS in Computer Science from the University of Central and am currently pursuing a three-year engineering degree at CPE Lyon, specializing in Computer Engineering. I completed an apprenticeship at Sanofi as a DevOps Developer during my final year of the BUT. Sanofi has continued to support me by hiring me as a DevOps Cloud Engineer throughout my engineering studies. This role is enhancing my skills in DevOps, particularly with GitHub Actions, Python, Terraform, and AWS. I also recently earned the GitHub Foundations certification, demonstrating my knowledge of GitHub.'
             },
             view: 'Live',
             sanofi: {
@@ -39,7 +39,7 @@ export default defineI18nConfig(() => ({
             toeicReading: 'Reading comprehension',
             toeicLevel: 'B2 Level'
         },
-        fr: {
+        co: {
             about: {
                 1: "Bonjour! Je suis un développeur passionné par la technologie et tout ce qui touche à l'informatique. Au fil des années, je me suis consacré à la création de divers projets personnels, animé par ma passion pour l'apprentissage et l'exploration de nouvelles technologies.",
                 2: "Je suis compétent en développement full-stack et DevOps, avec un accent particulier sur Vue.js et Nuxt pour le développement web. Du côté DevOps, j'ai de l'expérience avec des outils comme GitHub Actions, Python, l'automatisation, Linux, Terraform et AWS, des compétences que j'ai améliorées à la fois grâce à des projets personnels et à mon expérience professionnelle.",
